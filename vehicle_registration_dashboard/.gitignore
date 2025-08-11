@@ -1,5 +1,5 @@
 # Ignore data directory with CSV files
-data/
+
 
 # Ignore Python virtual environment
 env/
