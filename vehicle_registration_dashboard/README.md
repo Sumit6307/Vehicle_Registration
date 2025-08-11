@@ -37,7 +37,7 @@ A simple interactive UI to analyze vehicle registration growth (YoY/QoQ) by cate
   - Investor insights (e.g., "Electric 2W shows 20%+ YoY growth, indicating EV market potential").
 - Upload to YouTube (unlisted) or Google Drive.
 
-GitHub Repo: Upload to your GitHub (e.g., https://github.com/yourusername/vehicle-registration-dashboard). Version control: Commit all files; ignore `data/` via `.gitignore` (e.g., `echo "data/" >> .gitignore`).
+GitHub Repo: Upload to your GitHub (e.g., https://github.com/Sumit6307/Vehicle_Registration). Version control: Commit all files; ignore `data/` via `.gitignore` (e.g., `echo "data/" >> .gitignore`).
 ```
 
 ## Verification Checklist
